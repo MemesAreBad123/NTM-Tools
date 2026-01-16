@@ -1,4 +1,18 @@
 #!/usr/bin/env python3
+""" 1) See available fuel types
+
+python zirnox_grid_calc.py --list-fuels
+
+
+2) Run the simulator with interactive grid entry
+
+python zirnox_grid_calc.py --co2-mB 16000 --interactive
+
+
+3) (Optional) Re-calibrate heat --> temperature using an in-game reference
+
+python zirnox_grid_calc.py --co2-mB 16000 --interactive --calibrate """ 
+
 """
 ZIRNOX 4x4 Fuel Grid -> Heat -> Temperature -> Pressure (HBM NTM)
 
@@ -65,7 +79,7 @@ FUEL_TABLE: Dict[str, FuelSpec] = {
 
 
 # -----------------------------
-# CO2 -> Base Pressure (bar) (from my notes)
+# CO2 -> Base Pressure (bar) 
 # -----------------------------
 def base_pressure_from_co2_mB(co2_mB: float) -> float:
     if co2_mB <= 0:
@@ -329,3 +343,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
