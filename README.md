@@ -1,9 +1,8 @@
 <div dir=rtl align=center>
 
-### **English 🇺🇸** / [**Русский 🇷🇺**](README_ru.md) / [**简体中文 🇨🇳**](README_zh.md) / [**한국어 🇰🇷**](README_kr.md) / [**Українська 🇺🇦**](README_ua.md)
+### **English 🇺🇸** 
 </div>
 
-<p align="center"><img src="./github/icon.png" alt="Logo" width="300"></p>
 
 <h1 align="center"> HBM's Nuclear Tech Mod Community Edition  <br>
 	<a href="https://www.curseforge.com/minecraft/mc-mods/hbm-nuclear-tech-mod-community-edition"><img src="http://cf.way2muchnoise.eu/1312314.svg" alt="CF"></a>
@@ -23,7 +22,6 @@ retroacitvely. Please respect our time and make sure issue reports are of qualit
 > This can be found at `config/Universal Tweaks - Tweaks.cfg`
 
 <br>
-<p align="center"><img src="./github/faq.png" alt="NTM:CE FAQ" width="700"></p>
 <br>
 
 ### Is it survival ready?
@@ -72,7 +70,6 @@ separate teams that worked on this mod, is what killed the mod's chance to be po
 our efforts on one version at a time.
 
 <br>
-<p align="center"><img src="./github/dev_guide.png" alt="Development Guide" width="700"></p>
 <br>
 
 ## **For development Java 25 is used!**
