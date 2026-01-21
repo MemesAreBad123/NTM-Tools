@@ -11,10 +11,9 @@
     <br>
 </h1>
 
-A definitive port of HBM's Nuclear Tech Mod from 1.7.10 to 1.12.2, the most completed one among others. Came from necessity as other developers have failed to update and maintain other forks.
 
-> **IMPORTANT: If you have Universal Tweaks installed, set `B:"Disable Fancy Missing Model"` to `false` to fix model rotation**  
-> This can be found at `config/Universal Tweaks - Tweaks.cfg`
+>  If you have Universal Tweaks installed, set `B:"Disable Fancy Missing Model"` to `false` to fix**  
+>  can be found at `config/Universal Tweaks - Tweaks.cfg`
 
 <br>
 <br>
